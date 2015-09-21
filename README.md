@@ -1,2 +1,3 @@
 # PalindromeCheck-
-Program to determine if the contents of a text file 
+Program to determine if the content of a text file is a Palindrome
+
